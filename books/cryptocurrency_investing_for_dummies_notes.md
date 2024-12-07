@@ -12,7 +12,6 @@
 
 📄 Pages: 400
 
-
 ## 📝 Table of Contents
 
 - Part 1. Getting Started with Cryptocurrency Investing
@@ -74,7 +73,7 @@ To be valuable, money must have these characteristics:
 - Merchants must accept it
 - Society must trust that it's valuable and will remain so in the future
 
-What is *fiat money*? Legal tender like coins and banknotes that have value only because the government says so.
+What is _fiat money_? Legal tender like coins and banknotes that have value only because the government says so.
 
 ### Cryptocurrency history
 
@@ -162,3 +161,66 @@ Issues with blockchain:
 https://cryptoclimate.org/solutions/
 
 ## Ch5. How Cryptocurrencies Work
+
+Topics covered:
+
+- Basics of how cryptocurrencies function
+- Basic cryptocurrency terminology
+- Explaining forks
+
+Just a very brief description of:
+
+- Cryptography: Hashing, symmetric and asymmetric encryption
+- Nodes
+- Mining
+- Proof-Of-Work
+- Proof-Of-Stake
+- Other Proof-Of algorithms
+- Transactions
+- Smart contracts
+
+Nothing really relevant at this point.
+
+## Ch6: How to Buy Cryptocurrencies
+
+TLDR: Really just pick an exchange and buy. Makes no sense to use a broker like Robinhood, eToro or Interactive Brokers IMHO.
+
+## Ch7: Using Cryptocurrency Wallets
+
+Terms:
+
+- Hot wallet: A wallet connected to the internet.
+- Cold wallet: A wallet not connected to the internet.
+
+_There's a very low chance that somebody else can get your funds by mistake_ Lol.
+
+Online wallets may be less secure, but they do have a bunch of advantages for small amounts of cryptocurrencies.
+
+## Ch8: Different Types of Cryptocurrencies
+
+The info in this chapter is super outdated or super irrelevant.
+
+## Ch9: Identifying Top Performing Cryptocurrencies
+
+Investment Diva Diamond Analysis (IDDA) framework:
+
+- Intentional Analysis
+- Capital Analysis (personal risk management)
+- Fundamental analysis
+- Technical analysis
+- Sentimental (market risk) analysis
+
+For sentimental analysis:
+
+## Ch10: Diversification in Cryptocurrencies
+
+## Part 3: Alternatives to Cryptos
+
+This is what's covered in the whole part 3, which is not of my interest.
+
+- Ch12: Getting Ahead of the Crowd: Investing in ICOs
+- Ch13: Cryptocurrency Mining
+- Ch14: Investing in NFTs
+- Ch15: Stocks and Exchange Traded Funds with Cryptocurrency Exposure
+- Ch16: Cryptocurrency Futures and Options
+- Ch17: Dealing with the Dollar and Other Fiat Currencies
