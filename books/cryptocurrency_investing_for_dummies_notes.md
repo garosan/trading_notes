@@ -214,9 +214,24 @@ For sentimental analysis:
 
 ## Ch10: Diversification in Cryptocurrencies
 
+Don't diversify just for the sake of it without knowing what you're investing on.
+
+- Unsystematic risk:
+  - Business risk
+  - Country risk
+  - Default risk
+  - Executive risk
+- Systematic risk:
+  - Market risk
+  - Exchange rate risk
+  - Interest rate risk
+  - Event risk
+
+Not much to say here either.
+
 ## Part 3: Alternatives to Cryptos
 
-This is what's covered in the whole part 3, which is not of my interest.
+This is what's covered in the whole part 3, which is not of my interest, except for a couple chapters.
 
 - Ch12: Getting Ahead of the Crowd: Investing in ICOs
 - Ch13: Cryptocurrency Mining
